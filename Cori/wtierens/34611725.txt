@@ -1,0 +1,3 @@
+Tue Sep 22 06:28:31 2020
+ASDEX
+First test of AUG 2S antenna, constant density

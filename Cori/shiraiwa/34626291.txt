@@ -1,0 +1,3 @@
+Tue Sep 22 10:15:32 2020
+ASDEX
+3rd order test with CNRL14=100 new mesh
