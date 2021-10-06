@@ -1,0 +1,4 @@
+Mon Jun 28 14:50:24 2021
+HHFW/Helicon
+KSTAR helical antenna with third order elements, improved toroidal, poloidal, and radial damping.
+Density is 1e12 and gap is 1 cm.

@@ -1,0 +1,4 @@
+Fri Aug 27 09:57:41 2021
+HHFW/Helicon
+KSTAR helical antenna with fourth order elements. Gap is 2 cm. Density is 3e17. No Faraday shield.
+order 5

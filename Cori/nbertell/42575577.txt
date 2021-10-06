@@ -1,0 +1,3 @@
+Wed May 12 12:28:47 2021
+NSTX,HHFW/Helicon,test
+NSTX-U full machine, 30 antenna phasing, no Faraday screen

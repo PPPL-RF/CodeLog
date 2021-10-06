@@ -1,0 +1,4 @@
+Wed Sep 23 02:12:19 2020
+ASDEX
+Test of AUG 2S antenna, constant 10^20 density
+2nd order basis

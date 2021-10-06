@@ -1,0 +1,3 @@
+Mon Mar 29 14:22:10 2021
+NSTX,HHFW/Helicon,test
+NSTX-U full machine, 90 antenna phasing, order 4, BT=1T, needge = 1e18

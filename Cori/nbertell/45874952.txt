@@ -1,0 +1,3 @@
+Fri Aug 20 15:07:29 2021
+test
+test INFUSE, order 5, cos profile antenna, correct field, ne0 = 2e19, ne1 = 2e16, parabola, f = 10MHz, phase = 180, finer mesh

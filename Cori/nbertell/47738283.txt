@@ -1,0 +1,3 @@
+Thu Sep 30 06:39:57 2021
+LAPO,test
+lapd 4 straps, phase 30 with the right 180 shift, order 1, refinement 1

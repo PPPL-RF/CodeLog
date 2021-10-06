@@ -1,0 +1,3 @@
+Mon Aug 30 14:14:35 2021
+LAPO
+Sigma was set to 0.

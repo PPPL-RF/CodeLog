@@ -1,0 +1,3 @@
+Wed Oct 14 08:24:39 2020
+ASDEX
+AUG test on CORI, 5th order, 4 nodes 128 cores, no PML, 0.1 sigma

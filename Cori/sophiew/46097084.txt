@@ -1,0 +1,15 @@
+Thu Aug 26 12:09:35 2021
+LAPO
+LAPD length: 1.2 m
+Frequency: 8.7 MHz
+Min Mesh: 2 cm
+Max Mesh: 2.5 cm
+Extrude Mesh: 2.4 cm
+Collisionality: 0.5 MHz
+Conductivity: conduct = 2*r**4 + 0.0001*z**6 #ramp 2
+Magnetic Field: 0.17 Tesla
+A: 15
+FWHM: 0.11 
+Base Density: 9e17
+Density Function: dens=densBase*(np.tanh(-a*(r-fwhm))+1)/2
+

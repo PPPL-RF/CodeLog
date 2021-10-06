@@ -1,0 +1,3 @@
+Sun Nov  1 00:37:59 2020
+ASDEX
+AUG test on CORI, 4th order, analytic 1D density

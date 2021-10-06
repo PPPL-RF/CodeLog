@@ -1,0 +1,3 @@
+Thu Nov 19 06:45:30 2020
+NSTX,HHFW/Helicon,test
+NSTXU, B= 1 T, 120 degree section machine. Antenna phasing 150 degree, order 5

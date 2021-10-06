@@ -1,0 +1,3 @@
+Mon May  3 12:33:04 2021
+NSTX,HHFW/Helicon
+NSTX-U full machine, 90 antenna phasing, 3 straps only

@@ -1,0 +1,3 @@
+Thu Oct 15 05:41:58 2020
+NSTX,HHFW/Helicon,test
+NSTX, B= 0.5 T, half machine. Antenna phasing 150 degree and port scan

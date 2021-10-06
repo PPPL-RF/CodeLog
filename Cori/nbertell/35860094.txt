@@ -1,0 +1,3 @@
+Tue Nov  3 13:02:38 2020
+NSTX,HHFW/Helicon,test
+NSTX-U, full machine, order 5, 150 degree, SurfJ instead of antenna geometry

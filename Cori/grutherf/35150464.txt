@@ -1,0 +1,3 @@
+Thu Oct 15 10:28:28 2020
+NSTX,HHFW/Helicon
+44 config, 22 off, 1kA, 90 degree phasing, sigma =0.125

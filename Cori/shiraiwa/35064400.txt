@@ -1,0 +1,4 @@
+Tue Oct 13 05:50:39 2020
+test
+testing PT-Scoth 6.0.6  (1 node 8 cores did out of memory !)
+So I am testing 4/4

@@ -1,0 +1,3 @@
+Fri Nov 20 15:03:41 2020
+ASDEX
+AUG test on CORI, 5th order, linearly interpolated experimental data, new mesh positive J

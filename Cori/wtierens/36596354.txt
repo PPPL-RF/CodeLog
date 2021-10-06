@@ -1,0 +1,3 @@
+Wed Nov 25 06:01:19 2020
+ASDEX
+AUG test on CORI, 4th order, linearly interpolated experimental data, extra interpolation points

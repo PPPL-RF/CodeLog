@@ -1,0 +1,3 @@
+Thu Oct 15 07:59:39 2020
+test
+scotch is built with -g -O0

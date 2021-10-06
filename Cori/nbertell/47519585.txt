@@ -1,0 +1,3 @@
+Fri Sep 24 13:23:58 2021
+LAPO
+lapd 4 straps, phase 45 with shift, order 3, right antenna location

@@ -1,0 +1,3 @@
+Thu Nov 12 12:33:53 2020
+WEST,IC
+Parametric scan of four ports with conductivity 0.05 and frequency of 48 Mhz

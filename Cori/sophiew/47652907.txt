@@ -1,0 +1,9 @@
+Tue Sep 28 06:05:26 2021
+LAPO
+Slow Wave Simulaton 
+Conductivity Ramp 4
+f(r,z) = 0.3*r**4+0.00001*z**6 for r = -0.5 to 0.5 and z = -3.5 to 3.5
+Order:2
+Made the middle three sections to have min mesh size of 0.01m 
+Should compare with previous Ramp 4 results 
+(previously this was done with min mesh size 0.01m and order 1) 

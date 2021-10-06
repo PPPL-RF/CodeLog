@@ -1,0 +1,3 @@
+Mon Nov 23 14:46:20 2020
+NSTX,HHFW/Helicon,test
+NSTX, B= 0.5 T, 120 degree machine, no antenna. Antenna phasing 150 degree order 2 test, initial solution

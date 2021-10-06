@@ -1,0 +1,3 @@
+Wed Dec  2 09:35:39 2020
+ASDEX,test
+AUG test on CORI, 4th order, analytic profile 006. No PML. Sigma=0.01

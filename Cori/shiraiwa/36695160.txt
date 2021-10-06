@@ -1,0 +1,3 @@
+Mon Nov 30 04:00:53 2020
+ASDEX,test
+AUG test on CORI, 4rd order, linearly interpolated experimental data, new mesh positive J.  Testing to increase the element order by 25

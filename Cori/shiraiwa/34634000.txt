@@ -1,0 +1,5 @@
+Tue Sep 22 11:58:22 2020
+ASDEX
+3rd order test with CNRL14=100 new mesh
+fixed pure toroidal field, ne=1e19
+PML on

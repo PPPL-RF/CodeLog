@@ -1,0 +1,3 @@
+Mon Nov  2 11:45:59 2020
+NSTX,HHFW/Helicon
+nstxu, 150 degree, order 4, initial sol with right dens

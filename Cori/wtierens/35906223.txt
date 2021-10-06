@@ -1,0 +1,3 @@
+Thu Nov  5 00:10:34 2020
+ASDEX
+AUG test on CORI, 4th order, clamped cubic spline interpolated density

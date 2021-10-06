@@ -1,0 +1,4 @@
+Thu Sep 24 02:03:22 2020
+ASDEX
+Test of AUG 2S antenna, constant 10^20 density
+2nd order basis, vacuum layer as in COMSOL

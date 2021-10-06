@@ -1,0 +1,4 @@
+Wed Feb 17 04:41:32 2021
+ASDEX,IC,test
+AUG test on CORI, 6th order, PML radial only, sigma_bdr 0.05, width = 4cm Added boundary absorbed power.
+

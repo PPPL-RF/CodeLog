@@ -1,0 +1,3 @@
+Tue Nov 17 17:21:32 2020
+WEST,IC
+Parametric scan of four ports with SOL conductivity 0.05 and frequency of 56 Mhz
